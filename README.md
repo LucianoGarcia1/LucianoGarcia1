@@ -2,7 +2,8 @@
 - 💻 Desenvolvedor Frontend
 - 🎉 Web Design
 - 📒 Atualmente estudando Javascript & React Js 
-- 📌 Conhecimnetos em Html, Css, Javscript & Sass
+- 📌 Conhecimnetos em Html, Css, JS & Sass
+
 <div style="align: center;">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%230C0C0C&size=24&width=440&lines=Front+end++Developer+%26+Web+Design)](https://git.io/typing-svg)
