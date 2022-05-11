@@ -1,4 +1,4 @@
-### Olá, Me chamo Luciano Garcia👋
+# Olá, Me chamo Luciano Garcia👋
 - 💻 Desenvolvedor Frontend
 - 🎉 Web Design
 - 📒 Atualmente estudando Javascript & React Js 
