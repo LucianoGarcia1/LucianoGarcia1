@@ -1,24 +1,15 @@
-# Olá, Me chamo Luciano Garcia👋
-- 💻 Desenvolvedor Frontend
-- 🎉 Web Design
-- 📒 Atualmente estudando Javascript & React Js 
-- 📌 Conhecimnetos em Html, Css, JS & Sass
+# Bem-vindo ao meu perfil no GitHub
+  **Meu nome é Luciano Garcia, sou desenvolvedor frontend e web designer.
+  <br/>
+  Tenho experiência nas seguintes tecnologias:**
+  
+ - <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white" alt="ReactJS"/>
+ - <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" alt="Javascript"/>
+ - <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML"/>
+ - <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS"/>
+ - <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="SCSS"/>
 
-<div style="align: center;">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%230C0C0C&size=24&width=440&lines=Frontend++Developer+%26+Web+Design)](https://git.io/typing-svg)
-  
-   <img width="100%" height="180px" src="https://github-readme-stats.vercel.app/api?username=LucianoGarcia1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-   <img width="100%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGarcia1&layout=compact&langs_count=7&theme=dark"/>
-  <hr>
-  <img align="center" alt="Luciano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luciano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luciano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luciano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luciano-React" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</div>
-
-<div style="width:100%; text-align:rigth;">
-  <img src="https://img.icons8.com/color/240/000000/baby-yoda.png" style="align: right; text-align: right;"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoGarcia1&show_icons=true&theme=dark&count_private=true" alt="LucianoGarcia1's GitHub Stats" width="500" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGarcia1&layout=compact&theme=dark" alt="LucianoGarcia1's Top Languages" width="500" height="200"/>
+</p>
