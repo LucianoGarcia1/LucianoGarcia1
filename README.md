@@ -10,6 +10,6 @@
  - <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="SCSS"/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoGarcia1&show_icons=true&theme=dark&count_private=true" alt="LucianoGarcia1's GitHub Stats" width="500" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGarcia1&layout=compact&theme=dark" alt="LucianoGarcia1's Top Languages" width="500" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoGarcia1&show_icons=true&theme=dark&count_private=true" alt="LucianoGarcia1's GitHub Stats" min-width="500" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGarcia1&layout=compact&theme=dark" alt="LucianoGarcia1's Top Languages" min-width="500" height="200"/>
 </p>
