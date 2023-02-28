@@ -22,6 +22,6 @@
 ## Contato
 <a href="https://www.linkedin.com/in/luciano-garcia-a6b0a2209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="100px" height="30px"/></a> 
 <a href="https://api.whatsapp.com/send?phone=5521997963489" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-34af23?style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp" width="100px" height="30px" /></a>
-<a href="https://api.whatsapp.com/send?phone=5521997963489" target="_blank"><img src="https://img.shields.io/badge/Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" width="100px" height="30px" /></a>
+<a href="lucianogarci0210@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" width="100px" height="30px" /></a>
  
 #### Sinta-se livre para entrar em contato!
