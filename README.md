@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil no GitHub
 
-Olá! Meu nome é Luciano Garcia, sou desenvolvedor frontend e web designer com conhecimento em diversas tecnologias.
+<p>Olá! Meu nome é Luciano Garcia, sou desenvolvedor frontend e web designer com conhecimento em diversas tecnologias.</p>
 
 ## Tecnologias
 
