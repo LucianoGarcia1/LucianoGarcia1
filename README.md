@@ -21,4 +21,4 @@ Olá! Meu nome é Luciano Garcia, sou desenvolvedor frontend e web designer com 
 
 ## Contato
 
-Você pode me encontrar no <a href="https://www.linkedin.com/in/luciano-garcia-00982114a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> e <a href="https://twitter.com/luciano_garcia" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>. Sinta-se livre para entrar em contato!
+Você pode me encontrar no <a href="https://www.linkedin.com/in/luciano-garcia-a6b0a2209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> e <a href="https://api.whatsapp.com/send?phone=5521997963489" target="_blank"><img src="https://img.shields.io/badge/whatsapp-34af23?style=flat-square&logo=whatsapp&logoColor=white" alt="Twitter" /></a>. Sinta-se livre para entrar em contato!
