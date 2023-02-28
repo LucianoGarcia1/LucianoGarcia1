@@ -15,8 +15,8 @@ Olá! Meu nome é Luciano Garcia, sou desenvolvedor frontend e web designer com 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoGarcia1&show_icons=true&theme=dark&count_private=true" alt="LucianoGarcia1's GitHub Stats" width="400px" height="260px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGarcia1&layout=compact&theme=dark" alt="LucianoGarcia1's Top Languages" width="400px" height="260px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoGarcia1&show_icons=true&theme=dark&count_private=true" alt="LucianoGarcia1's GitHub Stats" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGarcia1&layout=compact&theme=dark" alt="LucianoGarcia1's Top Languages" width="400px"/>
 </div>
 
 ## Contato
