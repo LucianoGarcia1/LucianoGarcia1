@@ -1,6 +1,6 @@
-# Bem-vindo ao meu perfil no GitHub
+# Olá, eu sou Luciano Garcia
 
-<p>Olá! Meu nome é Luciano Garcia, sou desenvolvedor frontend e web designer com conhecimento em diversas tecnologias.</p>
+<p>Sou um desenvolvedor front-end, com habilidades em HTML, CSS, JavaScript, SCSS e ReactJS. Tenho conhecimentos em criar interfaces de usuário envolventes e funcionais, utilizando tecnologias modernas para desenvolver aplicações web rápidas e responsivas. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e colaborar em projetos empolgantes.</p>
 
 ## Tecnologias
 
